@@ -52,7 +52,7 @@ function uploadEntry() {
 
                 budgetObjectStore.clear();
 
-                alert('All new entries have been submitted!');
+                alert('Offline entries submitted!');
             })
             .catch(err => {
                 console.log(err)
