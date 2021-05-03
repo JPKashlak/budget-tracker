@@ -43,7 +43,7 @@
     ],
     "name": "Budget Tracker",
     "short_name": "BudgetTrack",
-    "start_url": "./index.html",
+    "start_url": "/",
     "theme_color": "#1958bf",
     "background_color": "#ffffff",
     "display": "standalone"
